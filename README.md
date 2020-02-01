@@ -16,7 +16,7 @@
 
 ## Summary of Data:
 
-The dataset for the study contains 10,228 observations of NFL Combine data, dating from 1987-2018.
+The dataset that was analyzed for this study contains 10,228 observations of NFL Combine data, dating from 1987-2018.
 
 ## Summary of Files:
 
