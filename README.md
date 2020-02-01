@@ -1,6 +1,6 @@
 # NFL Combine Classification Modeling
 
-![NFL Combine](https://media.giphy.com/media/DrJJwYW6OXWBq/giphy.gif)
+[NFL Combine](https://media.giphy.com/media/DrJJwYW6OXWBq/giphy.gif)
 
 ## Contributors: 
 
