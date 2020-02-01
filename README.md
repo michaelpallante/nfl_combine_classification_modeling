@@ -1,6 +1,6 @@
 # NFL Combine Classification Modeling
 
-![NFL Combine](https://media1.tenor.com/images/78ff645a5833cec20d1b5585b85d10fc/tenor.gif?itemid=11568999)
+![NFL Combine](https://media.giphy.com/media/DrJJwYW6OXWBq/giphy.gif)
 
 ## Contributors: 
 
