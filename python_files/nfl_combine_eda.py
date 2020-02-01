@@ -21,8 +21,8 @@
 
 
 #Import libraries
-# %run ../python_files/
-
+# get_ipython().run_line_magic('run', '../python_files/libraries')
+from libraries import *
 
 # ## Data Import and Data Examination
 
@@ -30,10 +30,10 @@
 
 
 # import data
-#  = pd.read_csv('../data/.csv')
+nfl_combine_df = pd.read_csv('../data/nfl_combine_data.csv')
 
 # quick overview of the dataset
-# df
+# nfl_combine_df
 
 
 # 
@@ -42,7 +42,7 @@
 
 
 # quick review of the variables in the dataset
-# df.info()
+# nfl_combine_df.info()
 
 
 # 
@@ -50,8 +50,8 @@
 # In[ ]:
 
 
-# quick review of the characteristics of our current continuous variables in the dataset
-# df.describe()
+# quick review of the characteristics of the variables in the dataset
+# nfl_combine_df.describe()
 
 
 # 
@@ -60,7 +60,7 @@
 
 
 # check the number of NaN values in the dataset
-# df.isna().sum()
+# nfl_combine_df.isna().sum()
 
 
 # 

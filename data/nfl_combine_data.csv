@@ -1,4 +1,4 @@
-combine_year,player_name,college,position,height_inches,weight_lbs,hand_size_inches,arm_length_inches,wonderlic_scores,40_yard_dash,bench_press_reps,vertitcal_leap_inches,broad_jump_inches,3_cone_drill,20_yard_shuttle,60_yard_shuttle
+combine_year,player_name,college,position,height_inches,weight_lbs,hand_size_inches,arm_length_inches,wonderlic_score,40_yard_dash,bench_press_reps,vertitcal_leap_inches,broad_jump_inches,3_cone_drill,20_yard_shuttle,60_yard_shuttle
 2018,Josh Adams,Notre Dame,RB,74,213,9.25,33.75,,,18,,,,,
 2018,Ola Adeniyi,Toledo,DE,74,248,9.63,31.75,,4.83,26,31.5,,7.21,4.28,12.79
 2018,Jordan Akins,Central Florida,TE,75,249,9.5,32.5,,,,,,,,
