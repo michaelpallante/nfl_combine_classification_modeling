@@ -10,9 +10,9 @@
 
 ## Project Goals:
 
--Determine the influence the NFL Combine has on a prospect getting drafted or not.
--Determine the influence the NFL Combine has in terms of how early or how late a prospect gets drafted.
--Discover which NFL Combine drills have the most impact on a prospect's draft status.
+- Determine the influence the NFL Combine has on a prospect getting drafted or not.
+- Determine the influence the NFL Combine has in terms of how early or how late a prospect gets drafted.
+- Discover which NFL Combine drills have the most impact on a prospect's draft status.
 
 ## Summary of Data:
 
