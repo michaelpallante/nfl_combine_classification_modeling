@@ -5,6 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy import stats
+import re
+pd.set_option('display.max_rows', 500)
+pd.set_option('display.max_columns', 100)
 
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
@@ -23,15 +26,15 @@ from sklearn import datasets, linear_model
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import roc_curve
 from sklearn.linear_model import Ridge
-
-import warnings
-warnings.filterwarnings('ignore')
-pd.options.display.max_columns = None
+from sklearn.impute import KNNImputer
 
 import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 from yellowbrick.datasets import load_concrete
 from yellowbrick.regressor import ResidualsPlot
+
+import warnings
+warnings.filterwarnings('ignore')
 
 from IPython import get_ipython
