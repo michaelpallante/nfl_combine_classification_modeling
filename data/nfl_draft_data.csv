@@ -1,4 +1,4 @@
-full_name,first_name,last_name,combine_year,round,pick,team
+player_name,first_name,last_name,combine_year,round,pick,team
 jameis_winston,jameis,winston,2015,1,1,tb
 marcus_mariota,marcus,mariota,2015,1,2,ten
 dante_fowler,dante,fowler,2015,1,3,jax
