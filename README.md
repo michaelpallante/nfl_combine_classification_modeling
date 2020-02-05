@@ -4,9 +4,9 @@
 
 ## Contributors: 
 
-[Michael Pallante](https://github.com/MFAP9)
+[Michael Pallante](https://github.com/michaelpallante)
 <br>
-[Justin Fleury](https://github.com/jfleury20)
+[Justin Fleury](https://github.com/jfleury12)
 
 ## Project Goals:
 
@@ -16,7 +16,7 @@
 
 ## Summary of Data:
 
-The dataset that was analyzed for this study contains 9,544 observations of NFL Combine and NFL Draft data, dating from 1987-2017.
+The dataset that was analyzed for this study contains 9,544 observations of NFL Combine and NFL Draft data, dating from 1987-2017. The NFL Combine data primarily displays the performance of players over that time period in combine drills. The NFL Draft data contains the draft pick information of players from that time span, including what round they were selected in and the team that picked them.
 
 ## Summary of Files:
 
