@@ -28,8 +28,7 @@ The dataset that was analyzed for this study contains 9,544 observations of NFL 
 
 **Presentation:**
 <br>
-[Presentation Slide Deck]
-
+[Presentation Slide Deck](https://github.com/michaelpallante/nfl_combine_classification_modeling/blob/master/presentation/Evaluating_the_NFL_Combine.pdf)
 
 **Data Folder (all downloaded data and modified datasets used in our notebooks):**
 <br>
