@@ -11,8 +11,8 @@
 ## Project Goals:
 
 - Determine the influence the NFL Combine has on a lineman (offensive linemen and defensive linemen) prospect's draft status (getting drafted or not).
-- Reveal how much the NFL Combine factors in on a lineman (offensive linemen and defensive linemen) prospect's draft value (how early or how late a prospect gets drafted, if at all).
 - Discover which NFL Combine drills have the most impact on a lineman (offensive linemen and defensive linemen) prospect's draft position.
+- Reveal how much the NFL Combine factors in on a lineman (offensive linemen and defensive linemen) prospect's draft value (how early or how late a prospect gets drafted, if at all). **(*FUTURE WORK*)**
 
 ## Summary of Data:
 
