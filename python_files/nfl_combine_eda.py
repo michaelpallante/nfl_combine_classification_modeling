@@ -382,7 +382,13 @@ for feature in missing_cols:
         model.fit(X,y)
         x_test_ds.loc[x_test_ds[feature].isnull(), feature] = model.predict(linemen2[model_df2.columns].drop(feature+'_imp', axis=1))[linemen2[feature].isnull()]
 
+# Now, our 'x' training and test datasets for both of our models have been imputed.
+#
+# Below, we remove the KNN imputation columns that were used to predict our missing values in our original columns, as they are no longer needed.
 
-# Now, our 'x' training and test datasets for both of our models have been imputed and are ready for modeling purposes. In order to prevent data leakage, we do not impute for our 'y' training and test datasets.
+x_train_ds = x_train_ds.iloc[:, :-8]
+x_test_ds = x_test_ds.iloc[:, :-8]
+
+# Now, our training and test datasets for both of our models are ready for modeling purposes. In order to prevent data leakage, we do not impute for our 'y' training and test datasets.
 # 
 # **To review our model implementation and model performance, please see our [Technical Notebook](https://github.com/michaelpallante/nfl_combine_classification_modeling/blob/master/notebooks/nfl_combine_technical_notebook.ipynb).**
